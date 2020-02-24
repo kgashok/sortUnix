@@ -41,24 +41,23 @@ Click the above "run on repl.it" gray button to launch or visit http://j.mp/sort
      - 0 to 14
      - None of the above
   
-  1. Make sure you know how `strcmp` function works. 
+  1. Make sure you know how `strcmp` function works. Visit https://www.geeksforgeeks.org/strcmp-in-c-cpp/
   2. What is code snippet to swap two character array variables in C? 
   
-## Part 4 - Visualize the code in C 
-
-launch the visualizer and single step through it - http://bit.ly/visualSort
-
-## Part 5 - Challenge yourself!
+## Part 4 - Challenge yourself!
 
 Listen to http://j.mp/unixSortKey video series. 
-  - Or if you prefer images http://j.mp/selectSortC
+    - Or if you prefer images http://j.mp/selectSortC
 
 Write code along the same steps on http://j.mp/selectionSortC and pass all the test cases
-  - If you practice well, and compete in the liveCoding session, and finish all the test cases < 6 min, you can win upto Rs 1,000 worth of gift prizes
-  - And if you can complete the pointer version of the code within 6 min, and answer questions on the code, you can win upto Rs 3,000 worth of gift prizes
+    - If you practice well, and compete in the liveCoding session, and finish all the test cases < 6 min, you can win upto Rs 1,000 worth of gift prizes
+
+## Part 5 - The Pointer Version!
+And if you can complete the pointer version of the code within 6 min, and answer questions on the code, you can win upto Rs 3,000 worth of gift prizes  
+    - launch the visualizer and single step through it - http://bit.ly/visualSort
 
 
-## Advanced Challenge
+## Part 6 - Advanced Challenge
 _"Go where no man or woman has gone before!"_
 
 - A more efficient SelectionSort using MinMax values - https://www.geeksforgeeks.org/sorting-algorithm-slightly-improves-selection-sort/
