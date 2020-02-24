@@ -2,7 +2,7 @@
 # Sort Unix 
 [![Run on Repl.it](https://repl.it/badge/github/kgashok/sortUnix)](https://repl.it/github/kgashok/sortUnix)
 
-Click the above "run on repl.it" gray button to launch or visit http://j.mp/sortDemo 
+Click the above `"run on repl.it"` gray button to launch or visit http://j.mp/sortDemo 
 
 ## What to do? 
   1. Press the green "run" button above 
