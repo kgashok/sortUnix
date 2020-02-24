@@ -50,17 +50,18 @@ launch the visualizer and single step through it - http://bit.ly/visualSort
 
 ## Part 5 - Challenge yourself!
 
-Listen to http://j.mp/unixSortKey video series. Or if you prefer images, http://j.mp/selectSortC
+Listen to http://j.mp/unixSortKey video series. 
+  - Or if you prefer images http://j.mp/selectSortC
 
 Write code along the same steps on http://j.mp/selectionSortC and pass all the test cases
-  - if you practice well, and compete in the liveCoding session, and finish all the test cases < 6 min, you can win upto Rs 1,000 worth of gift prizes
-  - And if you can complete the pointer version of the code and answer questions on the code, you can win upto Rs 3,000 worth of gift prizes
+  - If you practice well, and compete in the liveCoding session, and finish all the test cases < 6 min, you can win upto Rs 1,000 worth of gift prizes
+  - And if you can complete the pointer version of the code within 6 min, and answer questions on the code, you can win upto Rs 3,000 worth of gift prizes
 
 
 ## Advanced Challenge
-_"Go where no man or woman has gone!"_
+_"Go where no man or woman has gone before!"_
 
-- A modified SelectionSort - https://www.geeksforgeeks.org/sorting-algorithm-slightly-improves-selection-sort/
+- A more efficient SelectionSort using MinMax values - https://www.geeksforgeeks.org/sorting-algorithm-slightly-improves-selection-sort/
 
 # ----
 
