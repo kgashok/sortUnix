@@ -8,7 +8,7 @@ Click the above `"run on repl.it"` gray button to launch or visit http://j.mp/so
   1. Press the green "run" button above 
   2. Observe what happens on the console on the right. 
 
-## Part 1 - Objectives:  
+## Part 1 - Objectives  
 "_Begin with the end in mind_"
 
   1. Observe how sort command works in Unix
