@@ -54,7 +54,7 @@ Write code along the same steps on http://j.mp/selectionSortC and pass all the t
 
 ## Part 5 - The Pointer Version!
 And if you can complete the pointer version of the code within 6 min, and answer questions on the code, you can win upto Rs 3,000 worth of gift prizes  
-    - launch the visualizer and single step through it - http://bit.ly/visualSort
+    - To really _**grok**_ the algorithm in the pointer version, launch the visualizer and single step through it - http://bit.ly/visualSort
 
 
 ## Part 6 - Advanced Challenge
