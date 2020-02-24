@@ -30,12 +30,14 @@ Click the above `"run on repl.it"` gray button to launch or visit http://j.mp/so
 ## Part 2 - Objectives  
 "_Going from Known to Unknown_"
   1. Make sure you know the pseudo code (aka Python) for the Selection Sort algorithm 
-      - practice the http://j.mp/selectionSortCC - Python exercise on CloudCoder 
+  > - practice the http://j.mp/selectionSortCC - Python exercise on CloudCoder 
+
   2. Review the file selectsort.md 
   3. Come prepared to share and write the algorithm on the board 
 
 ## Part 3 - Objectives  
 "_Pre-requisite knowledge is critical_"  
+
   0. If a character array is of length 15, what is the range of the valid index values? 
      - 0 to 15 
      - 1 to 15 
@@ -58,6 +60,7 @@ Write code along the same steps on http://j.mp/selectionSortC and pass all the t
 
 ## Part 5 - The Pointer Version!
 "_Learning algorithms without implementing them is like learning surgery based solely on reading an anatomy book._" - Alexander S. Kulikov and Pavel Pevzner
+
 And if you can complete the pointer version of the code within 6 min, and answer questions on the code, you can win upto Rs 3,000 worth of gift prizes  
     - To really _**grok**_ the algorithm in the pointer version, launch the visualizer and single step through it - http://bit.ly/visualSort
     - Be among the **Best 3** to complete the challenge to maximize your prize money
@@ -70,5 +73,3 @@ _"Go where no man or woman has gone before!"_
 ![code](https://i.imgur.com/o7K1gYB.jpg)
 
 # ----
-
-
