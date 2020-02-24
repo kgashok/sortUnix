@@ -10,15 +10,16 @@ Click the above "run on repl.it" gray button to launch or visit http://j.mp/sort
 
 ## Part 1 - Objectives: 
 
-See and listen to http://j.mp/unixSortDemo
-
   1. Observe how sort command works in Unix
   2. Read strings from text file (names.txt)
   3. Sort the strings and show the output
   4. Add "india" to the names.txt file 
   5. Sort the strings again and show the output
   6. Add your name to the file names.txt 
-  7. Press the "run" button again - see where your name appears in the list 
+  7. Press the "run" button again - see where your name appears in the list   
+
+  or listen to http://j.mp/unixSortDemo
+
 
 ## Files description 
   - main.sh - which executes every time you press the green "run" button  
@@ -26,7 +27,9 @@ See and listen to http://j.mp/unixSortDemo
 
 
 ## Part 2 - Objectives
-  1. Make sure you know the pseudo code for the Selection Sort algorithm 
+  1. Make sure you know the pseudo code (aka Python) for the Selection Sort algorithm 
+    - practice the http://j.mp/selectionSortCC - Python exercise on CloudCoder 
+
   2. Review the file selectsort.md 
   3. Come prepared to share and write the algorithm on the board 
 
@@ -47,15 +50,17 @@ launch the visualizer and single step through it - http://bit.ly/visualSort
 
 ## Part 5 - Challenge yourself!
 
-Listen to http://j.mp/unixSortKey video series. 
+Listen to http://j.mp/unixSortKey video series. Or if you prefer images, http://j.mp/selectSortC
 
 Write code along the same steps on http://j.mp/selectionSortC and pass all the test cases
-  - if you practice well, and compete in the liveCoding session, and finish all the test cases < 6 min, you can win upto Rs 3,000 worth of gift prize
+  - if you practice well, and compete in the liveCoding session, and finish all the test cases < 6 min, you can win upto Rs 1,000 worth of gift prizes
+  - And if you can complete the pointer version of the code and answer questions on the code, you can win upto Rs 3,000 worth of gift prizes
 
 
-## Miscellanous 
+## Advanced Challenge
+_"Go where no man or woman has gone!"_
 
-http://j.mp/selectionSortCC - Python challenge 
+- A modified SelectionSort - https://www.geeksforgeeks.org/sorting-algorithm-slightly-improves-selection-sort/
 
 # ----
 
