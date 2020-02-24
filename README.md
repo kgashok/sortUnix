@@ -4,12 +4,16 @@
 
 Click the above "run on repl.it" gray button to launch or visit http://j.mp/sortDemo 
 
+## What to do? 
+  1. Press the green "run" button above 
+  2. Observe what happens on the console on the right. 
+
 ## Objectives: 
   1. Observe how sort command works in Unix
   2. Read strings from text file (names.txt)
   3. Sort the strings and show the output
   4. Add "india" to the names.txt file 
-  5. Sort the strings againa and show the output
+  5. Sort the strings again and show the output
   6. Add your name to the file names.txt 
   7. Press the "run" button again - see where your name appears in the list 
 
