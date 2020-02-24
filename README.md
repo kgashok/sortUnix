@@ -51,11 +51,12 @@ Listen to http://j.mp/unixSortKey video series.
 
 Write code along the same steps on http://j.mp/selectionSortC and pass all the test cases
     - If you practice well, and compete in the liveCoding session, and finish all the test cases < 6 min, you can win upto Rs 1,000 worth of gift prizes
+    - Be among the **First 3** to complete to maximize your prize money
 
 ## Part 5 - The Pointer Version!
 And if you can complete the pointer version of the code within 6 min, and answer questions on the code, you can win upto Rs 3,000 worth of gift prizes  
     - To really _**grok**_ the algorithm in the pointer version, launch the visualizer and single step through it - http://bit.ly/visualSort
-
+    - Be among the **Best 3** to complete the challenge to maximize your prize money
 
 ## Part 6 - Advanced Challenge
 _"Go where no man or woman has gone before!"_
