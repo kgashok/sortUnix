@@ -8,7 +8,8 @@ Click the above `"run on repl.it"` gray button to launch or visit http://j.mp/so
   1. Press the green "run" button above 
   2. Observe what happens on the console on the right. 
 
-## Part 1 - Objectives: 
+## Part 1 - Objectives:  
+_Begin with the end in mind_
 
   1. Observe how sort command works in Unix
   2. Read strings from text file (names.txt)
@@ -34,7 +35,8 @@ _Going from Known to Unknown_
   2. Review the file selectsort.md 
   3. Come prepared to share and write the algorithm on the board 
 
-## Part 3 - Objectives 
+## Part 3 - Objectives  
+_Pre-requisite knowledge is critical_
   0. If a character array is of length 15, what is the range of the valid index values? 
      - 0 to 15 
      - 1 to 15 
@@ -45,7 +47,8 @@ _Going from Known to Unknown_
   1. Make sure you know how `strcmp` function works. Visit https://www.geeksforgeeks.org/strcmp-in-c-cpp/
   2. What is code snippet to swap two character array variables in C? 
   
-## Part 4 - Challenge yourself!
+## Part 4 - Challenge yourself! 
+_I find that I don’t understand things unless I try to program them._  — Donald E. Knuth, The Art of Computer Programming, Volume 4 
 
 Listen to http://j.mp/unixSortKey video series. 
     - Or if you prefer images http://j.mp/selectSortC
@@ -55,6 +58,7 @@ Write code along the same steps on http://j.mp/selectionSortC and pass all the t
     - Be among the **First 3** to complete to maximize your prize money
 
 ## Part 5 - The Pointer Version!
+_Learning algorithms without implementing them is like learning surgery based solely on reading an anatomy book._ - Alexander S. Kulikov and Pavel Pevzner
 And if you can complete the pointer version of the code within 6 min, and answer questions on the code, you can win upto Rs 3,000 worth of gift prizes  
     - To really _**grok**_ the algorithm in the pointer version, launch the visualizer and single step through it - http://bit.ly/visualSort
     - Be among the **Best 3** to complete the challenge to maximize your prize money
@@ -63,6 +67,8 @@ And if you can complete the pointer version of the code within 6 min, and answer
 _"Go where no man or woman has gone before!"_
 
 - A more efficient SelectionSort using MinMax values - https://www.geeksforgeeks.org/sorting-algorithm-slightly-improves-selection-sort/
+
+![code](https://i.imgur.com/o7K1gYB.jpg)
 
 # ----
 
