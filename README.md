@@ -30,8 +30,7 @@ Click the above `"run on repl.it"` gray button to launch or visit http://j.mp/so
 ## Part 2 - Objectives  
 "_Going from Known to Unknown_"
   1. Make sure you know the pseudo code (aka Python) for the Selection Sort algorithm 
-    - practice the http://j.mp/selectionSortCC - Python exercise on CloudCoder 
-
+      - practice the http://j.mp/selectionSortCC - Python exercise on CloudCoder 
   2. Review the file selectsort.md 
   3. Come prepared to share and write the algorithm on the board 
 
