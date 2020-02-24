@@ -1,8 +1,8 @@
-[![Run on Repl.it](https://repl.it/badge/github/kgashok/sortUnix)](https://repl.it/github/kgashok/sortUnix)
 
 # Sort Unix 
+[![Run on Repl.it](https://repl.it/badge/github/kgashok/sortUnix)](https://repl.it/github/kgashok/sortUnix)
 
-Visit to launch http://j.mp/sortDemo 
+Click the above "run on repl.it" gray button to launch or visit http://j.mp/sortDemo 
 
 ## Objectives: 
   1. Observe how sort command works in Unix
