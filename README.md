@@ -26,7 +26,8 @@ Click the above "run on repl.it" gray button to launch or visit http://j.mp/sort
   - names.txt - text file to edit your name into 
 
 
-## Part 2 - Objectives
+## Part 2 - Objectives  
+_Going from Known to Unknown_
   1. Make sure you know the pseudo code (aka Python) for the Selection Sort algorithm 
     - practice the http://j.mp/selectionSortCC - Python exercise on CloudCoder 
 
