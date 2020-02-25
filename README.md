@@ -8,7 +8,7 @@ Click the above `"run on repl.it"` gray button to launch or visit http://j.mp/so
   1. Press the green "run" button above 
   2. Observe what happens on the console on the right. 
 
-## Part 1 - Objectives  
+## Part 1 - Objectives 
 "_Begin with the end in mind_"
 
   1. Observe how sort command works in Unix
@@ -23,17 +23,19 @@ Click the above `"run on repl.it"` gray button to launch or visit http://j.mp/so
 
 
 ## Files description 
-  - main.sh - which executes every time you press the green "run" button  
-  - names.txt - text file to edit your name into 
+  - `main.sh` - which executes every time you press the green "run" button  
+  - `names.txt` - text file to edit your name into 
 
 
 ## Part 2 - Objectives  
 "_Going from Known to Unknown_"
+
   1. Make sure you know the pseudo code (aka Python) for the Selection Sort algorithm 
   > - practice the http://j.mp/selectionSortCC - Python exercise on CloudCoder 
 
   2. Review the file selectsort.md 
   3. Come prepared to share and write the algorithm on the board 
+  4. Review the C code for selectsort.c perform live! 
 
 ## Part 3 - Objectives  
 "_Pre-requisite knowledge is critical_"  
@@ -46,11 +48,13 @@ Click the above `"run on repl.it"` gray button to launch or visit http://j.mp/so
      - None of the above
   
   1. Make sure you know how `strcmp` function works. Visit https://www.geeksforgeeks.org/strcmp-in-c-cpp/
-  2. What is code snippet to swap two character array variables in C? 
-  3. By the way, what happens when you run `sort numbers.txt`?
-  
+  2. How do you swap two numbers without using a third variable?
+  3. What is code snippet to swap two character array variables in C? 
+
 ## Part 4 - Challenge yourself! 
-"_I find that I don’t understand things unless I try to program them._"  — Donald E. Knuth, The Art of Computer Programming, Volume 4 
+"_I find that I don’t understand things unless I try to program them._"   
+ — Donald E. Knuth, The Art of Computer Programming, Volume 4  
+
 
 Listen to http://j.mp/unixSortKey video series. 
     - Or if you prefer images http://j.mp/selectSortC
