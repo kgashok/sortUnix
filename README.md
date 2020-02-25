@@ -47,6 +47,7 @@ Click the above `"run on repl.it"` gray button to launch or visit http://j.mp/so
   
   1. Make sure you know how `strcmp` function works. Visit https://www.geeksforgeeks.org/strcmp-in-c-cpp/
   2. What is code snippet to swap two character array variables in C? 
+  3. By the way, what happens when you run `sort numbers.txt`?
   
 ## Part 4 - Challenge yourself! 
 "_I find that I don’t understand things unless I try to program them._"  — Donald E. Knuth, The Art of Computer Programming, Volume 4 
