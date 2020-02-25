@@ -7,3 +7,6 @@
 - Work through the various iterations and how the list gets sorted out. Use a pen and paper and work it out. 
 - Single step in your mind how the algorithm works. This is the best way to really understand the code 
 
+## SelectSort for numbers 
+
+![num](https://i.imgur.com/gm8eMJw.jpg)
