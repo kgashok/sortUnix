@@ -35,7 +35,7 @@ Click the above `"run on repl.it"` gray button to launch or visit http://j.mp/so
 
   2. Review the file `selectsort.md` 
   3. Come prepared to share and write the algorithm on the board 
-  4. Review the C code for selectsort.c perform live! 
+  4. Review the C code for `selectsort.c` to perform live! 
 
 ## Part 3 - Objectives  
 "_Pre-requisite knowledge is critical_"  
