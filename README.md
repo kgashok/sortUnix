@@ -33,7 +33,7 @@ Click the above `"run on repl.it"` gray button to launch or visit http://j.mp/so
   1. Make sure you know the pseudo code (aka Python) for the Selection Sort algorithm 
   > - practice the http://j.mp/selectionSortCC - Python exercise on CloudCoder 
 
-  2. Review the file selectsort.md 
+  2. Review the file `selectsort.md` 
   3. Come prepared to share and write the algorithm on the board 
   4. Review the C code for selectsort.c perform live! 
 
