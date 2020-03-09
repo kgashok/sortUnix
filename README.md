@@ -83,10 +83,10 @@ _"Go where no man or woman has gone before!"_
 
 ## Faculty Notes
 
-- video descriptions
-	-  Using cards to simulate selection sort http://j.mp/selectionSortVideo  
+- video descriptions  
+	-  Using cards to simulate selection sort   http://j.mp/selectionSortVideo  
 	- Selection visualization on PythonAnywhere http://bit.ly/selectionVideo2  
 
-- C visualizer for SelectionSort http://bit.ly/visualSort and http://bit.ly/visualSortVideo
+- C visualizer for SelectionSort  http://bit.ly/visualSort and http://bit.ly/visualSortVideo
 
-- Space repetition on Memcode http://bit.ly/memCodeC
+- Space repetition on Memcode http://bit.ly/memCodeC  
