@@ -81,11 +81,11 @@ _"Go where no man or woman has gone before!"_
 
 # ----
 
-## Miscellaneous
+## Faculty Notes
 
 - video descriptions
 	-  Using cards to simulate selection sort http://j.mp/selectionSortVideo  
-	- Selection visualization on PythonAnywhere http://bit.ly/insertSortVideo2  
+	- Selection visualization on PythonAnywhere http://bit.ly/selectionVideo2  
 
 - C visualizer for SelectionSort http://bit.ly/visualSort and http://bit.ly/visualSortVideo
 
