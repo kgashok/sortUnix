@@ -83,6 +83,8 @@ _"Go where no man or woman has gone before!"_
 
 ## Faculty Notes
 
+- Selection sort as a series of photos http://j.mp/selectSortC
+
 - video descriptions  
 	-  Using cards to simulate selection sort   http://j.mp/selectionSortVideo  
 	- Selection visualization on PythonAnywhere http://bit.ly/selectionVideo2  
