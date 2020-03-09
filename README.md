@@ -31,7 +31,8 @@ Click the above `"run on repl.it"` gray button to launch your own fork on repl.i
 ## Part 2 - Objectives  
 "_Going from Known to Unknown_"
 
-  1. Make sure you know the pseudo code (aka Python) for the Selection Sort algorithm 
+  1. Make sure you know the pseudo code (aka Python) for the Selection Sort algorithm
+  > ![algo](https://i.imgur.com/iQbEbrf.jpg)
   > - practice the http://j.mp/selectionSortCC - Python exercise on CloudCoder 
 
   2. Review the file `selectsort.md` 
@@ -79,3 +80,15 @@ _"Go where no man or woman has gone before!"_
 ![code](https://i.imgur.com/o7K1gYB.jpg)
 
 # ----
+
+## Miscellaneous
+
+ - video descriptions 
+  - Using cards to simulate selectionsort http://j.mp/selectionSortVideo
+  - Selection visualization on PythonAnywhere http://bit.ly/insertSortVideo2
+
+ - C visualizer for SelectionSort http://bit.ly/visualSort and http://bit.ly/visualSortVideo
+
+ - Space repetition on Memcode
+  - http://bit.ly/memCodeC
+
