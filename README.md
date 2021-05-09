@@ -6,6 +6,9 @@ Click the above `"run on repl.it"` gray button to launch your own fork on repl.i
 
 
 ## What to do? 
+
+Once you have successfully forked your own copy of the github repo on ```repl.it```, do the following inside repl.it: 
+
   1. Press the green "run" button above 
   2. Observe what happens on the console on the right. 
 
