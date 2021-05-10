@@ -2,7 +2,7 @@
 
 Modify the given program so that it means the following requirements: 
 
-0. Modify the code so array size is only 4. Fill up the array with numbers ranging from 0 to 9 only. 
+0. Modify the code so array size is only 4. Fill up the array with random numbers ranging from 0 to 9 only. 
 
 1. Currently, the swap happens whether it is required or not. Modify the code appropriately. 
 
